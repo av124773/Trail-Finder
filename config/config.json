@@ -15,9 +15,9 @@
   },
   "production": {
     "username": "root",
-    "password": "password",
+    "password": "BP4cx6bGD0QmfYwBMcdo",
     "database": "trail_finder",
-    "host": "10.27.0.3",
+    "host": "my-first-aws-db.cxp4s1ns086e.ap-southeast-2.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
